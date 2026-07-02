@@ -31,7 +31,6 @@
 \begin{document}
 \maketitle
 
-%% -------------------------------------------------------------------
 \begin{abstract}
 Recorded crime data is typically published as separate frequency tables,
 hiding the relational structure that links areas, crime categories and
@@ -51,12 +50,11 @@ cosine-similarity community detection on outcome profiles supports a
 broadly similar property-crime / violence-disorder community structure.
 \end{abstract}
 
-%% -------------------------------------------------------------------
 \section{Introduction}
 
 Crime data is routinely published as separate frequency tables treating
 three connected dimensions as independent counts.
-Every crime record links an approximate area to a crime category, and a category to a recorded outcome. Categories that connect many local areas to many recorded outcomes are not visible from simple marginal rankings alone.
+Every crime record links an approximate area to a crime category and a category to a recorded outcome. Categories that connect many local areas to many recorded outcomes are not visible from simple marginal rankings alone.
 Network analysis makes those connections the primary object of study
 rather than a side-effect of aggregation.
 
@@ -83,17 +81,16 @@ person-level inference.
 The research question is: \textit{which recorded crime categories act
 as cross-layer brokers between Lower Layer Super Output Areas
 (LSOAs) and recorded police
-outcomes, and how consistent are these brokerage roles across
+outcomes and how consistent are these brokerage roles across
 Metropolitan Police Service, West Midlands Police and South Wales Police?}
 
-%% -------------------------------------------------------------------
 \section{Data and Methods}
 
 \subsection{Dataset and network construction}
 
 Street-level crime CSV files for November~2025 to April~2026 were
 downloaded from \texttt{data.police.uk} per force and reduced to
-force, LSOA code, crime type, and \texttt{Last outcome category}.
+force, LSOA code, crime type and \texttt{Last outcome category}.
 Records without an LSOA were dropped from the area-crime layer and
 records without an outcome from the crime-outcome layer, keeping both
 layers per force to use the maximum available data.
@@ -132,7 +129,7 @@ South Wales Police   &  59{,}031 &    952  &  7{,}685 \\
 I chose the multilayer design over a single untyped graph because
 merging areas, crimes and outcomes into one node set would erase the
 mediator interpretation the brokerage question depends on.
-Each layer is an undirected bipartite graph, and the combined graph
+Each layer is an undirected bipartite graph and the combined graph
 joins them through shared crime type nodes.
 Because area and outcome nodes connect only to crime nodes, crime
 types are the only class that can lie between an area and an outcome,
@@ -148,7 +145,7 @@ category from one that mediates between many areas and outcomes.
 The primary analysis ranks each outcome-linked crime category on four
 structural dimensions within its force: the proportion of LSOAs where
 it appears, the proportion of outcome types it connects to, the Shannon
-entropy of its outcome distribution, and its weighted-distance
+entropy of its outcome distribution and its weighted-distance
 betweenness~\cite{brandes2001betweenness} in the combined graph.
 Higher normalised entropy means a crime type's outcomes are
 spread across several categories rather than one dominant
@@ -165,7 +162,7 @@ ordering.
 
 Two Spearman checks were computed: brokerage score versus raw
 area-crime volume within each force (to test whether the composite
-reproduces frequency), and brokerage score between force pairs across
+reproduces frequency) and brokerage score between force pairs across
 shared categories (to test cross-force stability).
 At $n{\approx}13$ per force both are descriptive rather than
 hypothesis tests.
@@ -191,7 +188,6 @@ NetworkX-native and interpretable at this scale.
 Community colours are semantic labels assigned to each greedy-modularity
 community from its crime-type members, not raw community IDs.
 
-%% -------------------------------------------------------------------
 \section{Results and Discussion}
 
 \begin{figure}[!t]
@@ -257,13 +253,13 @@ These differences reflect measured variation in spread and outcome connectivity 
 
 As a descriptive consistency check, Spearman correlation between brokerage
 score and raw area-crime volume was moderate in Metropolitan
-($\rho{=}0.57$) and West Midlands ($\rho{=}0.58$), and stronger in
+($\rho{=}0.57$) and West Midlands ($\rho{=}0.58$) and stronger in
 South Wales ($\rho{=}0.85$).
 The higher South Wales value may reflect smaller forces: with fewer
 LSOAs and less varied structure, spread and volume are harder to
 separate, so brokerage converges toward frequency.
 Cross-force brokerage correlations were high: 0.85 between Metropolitan
-and South Wales, 0.78 between Metropolitan and West Midlands, and 0.88
+and South Wales, 0.78 between Metropolitan and West Midlands and 0.88
 between South Wales and West Midlands, so broker role ordering is
 largely consistent across forces despite regional and scale
 differences.
@@ -278,7 +274,7 @@ all three networks show a property-crime / violence-disorder split;
 West Midlands produces three raw modularity communities, which are
 collapsed into the broader semantic labels.
 The property-crime community groups burglary, vehicle crime, bicycle
-theft, other theft, shoplifting, and theft from the person, all sharing
+theft, other theft, shoplifting and theft from the person, all sharing
 outcome profiles dominated by \textit{investigation complete; no
 suspect identified} and \textit{unable to prosecute suspect}.
 The violence-disorder community groups violence and sexual offences,
@@ -302,7 +298,6 @@ are not visible.
 All data is police-recorded crime; no causal claims about crime,
 outcomes, or police performance are made.
 
-%% -------------------------------------------------------------------
 \vspace{-4pt}
 \section{Conclusion}
 \vspace{-2pt}
@@ -312,13 +307,12 @@ three forces; drugs is a consistent second-tier broker not visible
 from raw event-count rankings alone. Broker ordering is broadly
 consistent across forces (Spearman 0.78 to 0.88); the same-graph
 PageRank comparison gives a similar ordering, suggesting the result is
-not purely a betweenness-ranking artefact, and the cosine-similarity
+not purely a betweenness-ranking artefact and the cosine-similarity
 community structure aligns with the composite ranking. The consistency
 suggests these structural roles may be partly crime-type related,
 although differences in recording practices and missing outcome fields
 cannot be ruled out.
 
-%% -------------------------------------------------------------------
 \clearpage
 \onecolumn
 \appendix
@@ -342,7 +336,7 @@ cannot be ruled out.
 Figure~\ref{fig:centrality} shows two supporting views of the combined
 crime network. Left: PageRank rank against betweenness rank per
 brokerage-eligible category; points near the diagonal indicate
-agreement, and violence and sexual offences sits at rank 1 for both
+agreement and violence and sexual offences sits at rank 1 for both
 metrics in all three forces. Right: rank-size distribution of weighted
 node degree on a log scale; the steep drop from the top-ranked
 category is consistent with a highly concentrated weighted-degree
@@ -357,7 +351,7 @@ Area spread should be normalised by LSOA population to remove the
 implicit weighting toward densely populated areas.
 Additional forces would test whether the property-crime /
 violence-disorder community structure generalises beyond England and
-Wales, and inclusion of stop-and-search data, once outcome
+Wales and inclusion of stop-and-search data, once outcome
 comparability is resolved, would extend the crime-outcome layer.
 
 \bibliographystyle{IEEEtran}
