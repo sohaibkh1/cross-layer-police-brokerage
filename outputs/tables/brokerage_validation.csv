@@ -1,0 +1,7 @@
+check_type,force_1,force_2,n_crime_types,spearman_rho
+brokerage_vs_volume,metropolitan,,13,0.5702500977133456
+brokerage_vs_volume,south-wales,,13,0.8539977308750585
+brokerage_vs_volume,west-midlands,,13,0.5812694232730237
+cross_force_brokerage_consistency,metropolitan,south-wales,13,0.845303867403315
+cross_force_brokerage_consistency,metropolitan,west-midlands,13,0.7790055248618786
+cross_force_brokerage_consistency,south-wales,west-midlands,13,0.8812154696132597

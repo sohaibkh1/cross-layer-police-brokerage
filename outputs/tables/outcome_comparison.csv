@@ -1,0 +1,378 @@
+force,force_slug,crime_type,outcome_category,count,crime_type_total,force_total_with_outcome,proportion_within_crime_type,proportion_within_force
+Metropolitan Police Service,metropolitan,Bicycle theft,Investigation complete; no suspect identified,4959,5808,435337,0.8538223140495868,0.011391175112613906
+Metropolitan Police Service,metropolitan,Bicycle theft,Under investigation,548,5808,435337,0.0943526170798898,0.0012587949106094818
+Metropolitan Police Service,metropolitan,Bicycle theft,Unable to prosecute suspect,219,5808,435337,0.03770661157024793,0.0005030585500428404
+Metropolitan Police Service,metropolitan,Bicycle theft,Awaiting court outcome,48,5808,435337,0.008264462809917356,0.00011025940822856775
+Metropolitan Police Service,metropolitan,Bicycle theft,Status update unavailable,25,5808,435337,0.004304407713498623,5.7426775119045706e-05
+Metropolitan Police Service,metropolitan,Bicycle theft,Action to be taken by another organisation,5,5808,435337,0.0008608815426997245,1.1485355023809141e-05
+Metropolitan Police Service,metropolitan,Bicycle theft,Local resolution,4,5808,435337,0.0006887052341597796,9.188284019047312e-06
+Metropolitan Police Service,metropolitan,Burglary,Investigation complete; no suspect identified,16895,24106,435337,0.7008628557205675,0.03880901462545109
+Metropolitan Police Service,metropolitan,Burglary,Under investigation,4471,24106,435337,0.1854724964739069,0.010270204462290133
+Metropolitan Police Service,metropolitan,Burglary,Unable to prosecute suspect,1769,24106,435337,0.07338421969634117,0.004063518607423674
+Metropolitan Police Service,metropolitan,Burglary,Awaiting court outcome,644,24106,435337,0.026715340579108935,0.0014793137270666173
+Metropolitan Police Service,metropolitan,Burglary,Status update unavailable,309,24106,435337,0.012818385464199784,0.0007097949404714049
+Metropolitan Police Service,metropolitan,Burglary,Formal action is not in the public interest,7,24106,435337,0.00029038413672944496,1.60794970333328e-05
+Metropolitan Police Service,metropolitan,Burglary,Offender given a caution,6,24106,435337,0.0002489006886252385,1.3782426028570968e-05
+Metropolitan Police Service,metropolitan,Burglary,Offender given penalty notice,2,24106,435337,8.296689620841284e-05,4.594142009523656e-06
+Metropolitan Police Service,metropolitan,Burglary,Action to be taken by another organisation,1,24106,435337,4.148344810420642e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Burglary,Further investigation is not in the public interest,1,24106,435337,4.148344810420642e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Burglary,Local resolution,1,24106,435337,4.148344810420642e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Investigation complete; no suspect identified,14359,25631,435337,0.5602200460380009,0.03298364255737509
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Unable to prosecute suspect,5141,25631,435337,0.20057742577347742,0.011809242035480559
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Under investigation,4565,25631,435337,0.1781046389138153,0.010486129136737746
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Awaiting court outcome,953,25631,435337,0.03718153798135071,0.002189108667538022
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Status update unavailable,320,25631,435337,0.012484881588701181,0.000735062721523785
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Local resolution,134,25631,435337,0.00522804416526862,0.00030780751463808497
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Offender given a caution,88,25631,435337,0.003433342436892825,0.0002021422484190409
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Formal action is not in the public interest,35,25631,435337,0.0013655339237641918,8.039748516666399e-05
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Action to be taken by another organisation,15,25631,435337,0.0005852288244703679,3.445606507142742e-05
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Offender given penalty notice,9,25631,435337,0.00035113729468222075,2.0673639042856453e-05
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Further investigation is not in the public interest,8,25631,435337,0.0003121220397175296,1.8376568038094624e-05
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Further action is not in the public interest,4,25631,435337,0.0001560610198587648,9.188284019047312e-06
+Metropolitan Police Service,metropolitan,Drugs,Under investigation,6904,24684,435337,0.2796953492140658,0.015858978216875663
+Metropolitan Police Service,metropolitan,Drugs,Unable to prosecute suspect,6662,24684,435337,0.26989142764543833,0.0153030870337233
+Metropolitan Police Service,metropolitan,Drugs,Local resolution,5331,24684,435337,0.21596985901798735,0.012245685526385306
+Metropolitan Police Service,metropolitan,Drugs,Awaiting court outcome,3525,24684,435337,0.14280505590666018,0.008097175291785445
+Metropolitan Police Service,metropolitan,Drugs,Offender given penalty notice,896,24684,435337,0.03629881704748015,0.0020581756202665983
+Metropolitan Police Service,metropolitan,Drugs,Status update unavailable,647,24684,435337,0.02621131097066926,0.0014862049400809027
+Metropolitan Police Service,metropolitan,Drugs,Investigation complete; no suspect identified,438,24684,435337,0.017744287797763734,0.0010061171000856808
+Metropolitan Police Service,metropolitan,Drugs,Offender given a caution,174,24684,435337,0.007049100631988332,0.0003996903548285581
+Metropolitan Police Service,metropolitan,Drugs,Formal action is not in the public interest,76,24684,435337,0.0030789175174201914,0.00017457739636189896
+Metropolitan Police Service,metropolitan,Drugs,Further investigation is not in the public interest,24,24684,435337,0.0009722897423432182,5.512970411428387e-05
+Metropolitan Police Service,metropolitan,Drugs,Action to be taken by another organisation,4,24684,435337,0.00016204829039053638,9.188284019047312e-06
+Metropolitan Police Service,metropolitan,Drugs,Further action is not in the public interest,3,24684,435337,0.00012153621779290228,6.891213014285484e-06
+Metropolitan Police Service,metropolitan,Other crime,Under investigation,2534,6526,435337,0.38829298191847994,0.005820777926066473
+Metropolitan Police Service,metropolitan,Other crime,Unable to prosecute suspect,1108,6526,435337,0.16978240882623352,0.0025451546732761054
+Metropolitan Police Service,metropolitan,Other crime,Awaiting court outcome,959,6526,435337,0.14695065890285014,0.002202891093566593
+Metropolitan Police Service,metropolitan,Other crime,Investigation complete; no suspect identified,913,6526,435337,0.13990193073858412,0.0020972258273475493
+Metropolitan Police Service,metropolitan,Other crime,Status update unavailable,295,6526,435337,0.045203800183879865,0.0006776359464047393
+Metropolitan Police Service,metropolitan,Other crime,Further investigation is not in the public interest,278,6526,435337,0.04259883542752069,0.0006385857393237883
+Metropolitan Police Service,metropolitan,Other crime,Local resolution,270,6526,435337,0.04137296965982225,0.0006202091712856936
+Metropolitan Police Service,metropolitan,Other crime,Action to be taken by another organisation,100,6526,435337,0.015323322096230463,0.00022970710047618282
+Metropolitan Police Service,metropolitan,Other crime,Further action is not in the public interest,30,6526,435337,0.004596996628869139,6.891213014285485e-05
+Metropolitan Police Service,metropolitan,Other crime,Formal action is not in the public interest,25,6526,435337,0.003830830524057616,5.7426775119045706e-05
+Metropolitan Police Service,metropolitan,Other crime,Offender given a caution,13,6526,435337,0.00199203187250996,2.9861923061903766e-05
+Metropolitan Police Service,metropolitan,Other crime,Offender given penalty notice,1,6526,435337,0.00015323322096230462,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Other theft,Investigation complete; no suspect identified,35664,47532,435337,0.7503155768745267,0.08192274031382583
+Metropolitan Police Service,metropolitan,Other theft,Under investigation,6701,47532,435337,0.1409787090801986,0.015392672802909011
+Metropolitan Police Service,metropolitan,Other theft,Unable to prosecute suspect,4300,47532,435337,0.09046537069763527,0.009877405320475862
+Metropolitan Police Service,metropolitan,Other theft,Status update unavailable,471,47532,435337,0.009909113860136329,0.001081920443242821
+Metropolitan Police Service,metropolitan,Other theft,Awaiting court outcome,243,47532,435337,0.005112345367331482,0.0005581882541571242
+Metropolitan Police Service,metropolitan,Other theft,Action to be taken by another organisation,66,47532,435337,0.0013885382479171926,0.00015160668631428067
+Metropolitan Police Service,metropolitan,Other theft,Local resolution,34,47532,435337,0.000715307582260372,7.810041416190216e-05
+Metropolitan Police Service,metropolitan,Other theft,Formal action is not in the public interest,27,47532,435337,0.0005680383741479424,6.202091712856936e-05
+Metropolitan Police Service,metropolitan,Other theft,Offender given a caution,18,47532,435337,0.0003786922494319616,4.134727808571291e-05
+Metropolitan Police Service,metropolitan,Other theft,Further investigation is not in the public interest,4,47532,435337,8.415383320710259e-05,9.188284019047312e-06
+Metropolitan Police Service,metropolitan,Other theft,Further action is not in the public interest,3,47532,435337,6.311537490532694e-05,6.891213014285484e-06
+Metropolitan Police Service,metropolitan,Other theft,Offender given penalty notice,1,47532,435337,2.1038458301775647e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Possession of weapons,Awaiting court outcome,1204,3357,435337,0.35865355972594576,0.002765673489733241
+Metropolitan Police Service,metropolitan,Possession of weapons,Under investigation,1099,3357,435337,0.3273756330056598,0.0025244810342332493
+Metropolitan Police Service,metropolitan,Possession of weapons,Unable to prosecute suspect,603,3357,435337,0.17962466487935658,0.0013851338158713824
+Metropolitan Police Service,metropolitan,Possession of weapons,Investigation complete; no suspect identified,256,3357,435337,0.07625856419422103,0.000588050177219028
+Metropolitan Police Service,metropolitan,Possession of weapons,Status update unavailable,114,3357,435337,0.03395889186773905,0.0002618660945428484
+Metropolitan Police Service,metropolitan,Possession of weapons,Offender given a caution,29,3357,435337,0.008638665475126601,6.661505913809302e-05
+Metropolitan Police Service,metropolitan,Possession of weapons,Local resolution,23,3357,435337,0.0068513553768245455,5.283263310952205e-05
+Metropolitan Police Service,metropolitan,Possession of weapons,Formal action is not in the public interest,18,3357,435337,0.005361930294906166,4.134727808571291e-05
+Metropolitan Police Service,metropolitan,Possession of weapons,Further investigation is not in the public interest,7,3357,435337,0.002085195114685731,1.60794970333328e-05
+Metropolitan Police Service,metropolitan,Possession of weapons,Action to be taken by another organisation,2,3357,435337,0.0005957700327673518,4.594142009523656e-06
+Metropolitan Police Service,metropolitan,Possession of weapons,Further action is not in the public interest,1,3357,435337,0.0002978850163836759,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Possession of weapons,Offender given penalty notice,1,3357,435337,0.0002978850163836759,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Public order,Unable to prosecute suspect,9210,27934,435337,0.32970573494666,0.021156023953856438
+Metropolitan Police Service,metropolitan,Public order,Under investigation,9042,27934,435337,0.32369155867401733,0.02077011602505645
+Metropolitan Police Service,metropolitan,Public order,Investigation complete; no suspect identified,6631,27934,435337,0.2373809694279373,0.015231877832575683
+Metropolitan Police Service,metropolitan,Public order,Awaiting court outcome,1863,27934,435337,0.06669291902341233,0.004279443281871286
+Metropolitan Police Service,metropolitan,Public order,Status update unavailable,926,27934,435337,0.0331495668361137,0.002127087750409453
+Metropolitan Police Service,metropolitan,Public order,Formal action is not in the public interest,90,27934,435337,0.0032218801460585666,0.00020673639042856454
+Metropolitan Police Service,metropolitan,Public order,Local resolution,73,27934,435337,0.002613302785136393,0.00016768618334761347
+Metropolitan Police Service,metropolitan,Public order,Offender given a caution,49,27934,435337,0.0017541347461874418,0.00011255647923332959
+Metropolitan Police Service,metropolitan,Public order,Further investigation is not in the public interest,23,27934,435337,0.0008233693706594115,5.283263310952205e-05
+Metropolitan Police Service,metropolitan,Public order,Action to be taken by another organisation,17,27934,435337,0.0006085773609221737,3.905020708095108e-05
+Metropolitan Police Service,metropolitan,Public order,Offender given penalty notice,7,27934,435337,0.0002505906780267774,1.60794970333328e-05
+Metropolitan Police Service,metropolitan,Public order,Further action is not in the public interest,3,27934,435337,0.00010739600486861888,6.891213014285484e-06
+Metropolitan Police Service,metropolitan,Robbery,Investigation complete; no suspect identified,7348,14909,435337,0.49285666376014486,0.016878877742989913
+Metropolitan Police Service,metropolitan,Robbery,Under investigation,4082,14909,435337,0.2737943524045878,0.009376643841437783
+Metropolitan Police Service,metropolitan,Robbery,Unable to prosecute suspect,2569,14909,435337,0.17231202629284326,0.005901175411233137
+Metropolitan Police Service,metropolitan,Robbery,Awaiting court outcome,552,14909,435337,0.037024616003756124,0.001267983194628529
+Metropolitan Police Service,metropolitan,Robbery,Status update unavailable,338,14909,435337,0.022670869944328927,0.000776409999609498
+Metropolitan Police Service,metropolitan,Robbery,Local resolution,13,14909,435337,0.0008719565363203434,2.9861923061903766e-05
+Metropolitan Police Service,metropolitan,Robbery,Offender given a caution,4,14909,435337,0.000268294318867798,9.188284019047312e-06
+Metropolitan Police Service,metropolitan,Robbery,Action to be taken by another organisation,1,14909,435337,6.70735797169495e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Robbery,Formal action is not in the public interest,1,14909,435337,6.70735797169495e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Robbery,Offender given penalty notice,1,14909,435337,6.70735797169495e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Shoplifting,Investigation complete; no suspect identified,28044,42560,435337,0.6589285714285714,0.06441905925754071
+Metropolitan Police Service,metropolitan,Shoplifting,Unable to prosecute suspect,4809,42560,435337,0.11299342105263158,0.011046614461899631
+Metropolitan Police Service,metropolitan,Shoplifting,Under investigation,4117,42560,435337,0.09673402255639098,0.009457041326604446
+Metropolitan Police Service,metropolitan,Shoplifting,Awaiting court outcome,4099,42560,435337,0.0963110902255639,0.009415694048518733
+Metropolitan Police Service,metropolitan,Shoplifting,Local resolution,762,42560,435337,0.017904135338345863,0.001750368105628513
+Metropolitan Police Service,metropolitan,Shoplifting,Status update unavailable,193,42560,435337,0.004534774436090226,0.00044333470391903285
+Metropolitan Police Service,metropolitan,Shoplifting,Formal action is not in the public interest,184,42560,435337,0.004323308270676692,0.0004226610648761764
+Metropolitan Police Service,metropolitan,Shoplifting,Action to be taken by another organisation,153,42560,435337,0.0035949248120300753,0.0003514518637285597
+Metropolitan Police Service,metropolitan,Shoplifting,Offender given penalty notice,115,42560,435337,0.002702067669172932,0.0002641631655476102
+Metropolitan Police Service,metropolitan,Shoplifting,Offender given a caution,62,42560,435337,0.001456766917293233,0.00014241840229523334
+Metropolitan Police Service,metropolitan,Shoplifting,Further investigation is not in the public interest,21,42560,435337,0.000493421052631579,4.823849109999839e-05
+Metropolitan Police Service,metropolitan,Shoplifting,Further action is not in the public interest,1,42560,435337,2.349624060150376e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Theft from the person,Investigation complete; no suspect identified,32310,38545,435337,0.8382410169931249,0.07421836416385467
+Metropolitan Police Service,metropolitan,Theft from the person,Under investigation,3474,38545,435337,0.09012842132572318,0.00798002467054259
+Metropolitan Police Service,metropolitan,Theft from the person,Unable to prosecute suspect,2260,38545,435337,0.05863276689583603,0.0051913804707617315
+Metropolitan Police Service,metropolitan,Theft from the person,Awaiting court outcome,230,38545,435337,0.0059670514982488,0.0005283263310952204
+Metropolitan Police Service,metropolitan,Theft from the person,Status update unavailable,228,38545,435337,0.005915164093916202,0.0005237321890856968
+Metropolitan Police Service,metropolitan,Theft from the person,Local resolution,13,38545,435337,0.0003372681281618887,2.9861923061903766e-05
+Metropolitan Police Service,metropolitan,Theft from the person,Action to be taken by another organisation,12,38545,435337,0.0003113244259955896,2.7564852057141937e-05
+Metropolitan Police Service,metropolitan,Theft from the person,Formal action is not in the public interest,9,38545,435337,0.0002334933194966922,2.0673639042856453e-05
+Metropolitan Police Service,metropolitan,Theft from the person,Offender given a caution,7,38545,435337,0.00018160591516409391,1.60794970333328e-05
+Metropolitan Police Service,metropolitan,Theft from the person,Further investigation is not in the public interest,1,38545,435337,2.594370216629913e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Theft from the person,Offender given penalty notice,1,38545,435337,2.594370216629913e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Vehicle crime,Investigation complete; no suspect identified,34664,39770,435337,0.8716117676640684,0.079625669309064
+Metropolitan Police Service,metropolitan,Vehicle crime,Under investigation,2849,39770,435337,0.07163691224541112,0.0065443552925664485
+Metropolitan Police Service,metropolitan,Vehicle crime,Unable to prosecute suspect,1746,39770,435337,0.04390243902439024,0.004010685974314152
+Metropolitan Police Service,metropolitan,Vehicle crime,Awaiting court outcome,296,39770,435337,0.00744279607744531,0.0006799330174095011
+Metropolitan Police Service,metropolitan,Vehicle crime,Status update unavailable,185,39770,435337,0.004651747548403319,0.0004249581358809382
+Metropolitan Police Service,metropolitan,Vehicle crime,Action to be taken by another organisation,11,39770,435337,0.0002765903947699271,2.526778105238011e-05
+Metropolitan Police Service,metropolitan,Vehicle crime,Formal action is not in the public interest,8,39770,435337,0.00020115665074176516,1.8376568038094624e-05
+Metropolitan Police Service,metropolitan,Vehicle crime,Further investigation is not in the public interest,3,39770,435337,7.543374402816194e-05,6.891213014285484e-06
+Metropolitan Police Service,metropolitan,Vehicle crime,Offender given penalty notice,3,39770,435337,7.543374402816194e-05,6.891213014285484e-06
+Metropolitan Police Service,metropolitan,Vehicle crime,Local resolution,2,39770,435337,5.028916268544129e-05,4.594142009523656e-06
+Metropolitan Police Service,metropolitan,Vehicle crime,Suspect charged as part of another case,2,39770,435337,5.028916268544129e-05,4.594142009523656e-06
+Metropolitan Police Service,metropolitan,Vehicle crime,Offender given a caution,1,39770,435337,2.5144581342720645e-05,2.297071004761828e-06
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Unable to prosecute suspect,53252,133975,435337,0.39747714125769734,0.12232362514557688
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Under investigation,47563,133975,435337,0.3550139951483486,0.10925558819948683
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Investigation complete; no suspect identified,19575,133975,435337,0.14610934875909684,0.044965164918212785
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Awaiting court outcome,5938,133975,435337,0.04432170181003919,0.013640007626275735
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Status update unavailable,4713,133975,435337,0.035178204888971824,0.010826095645442495
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Action to be taken by another organisation,2075,133975,435337,0.015487964172420227,0.004766422334880793
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Local resolution,373,133975,435337,0.0027841015114760215,0.0008568074847761619
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Offender given a caution,292,133975,435337,0.00217951110281769,0.0006707447333904539
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Formal action is not in the public interest,116,133975,435337,0.000865833177831685,0.0002664602365523721
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Further investigation is not in the public interest,54,133975,435337,0.00040306027243888786,0.0001240418342571387
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Further action is not in the public interest,15,133975,435337,0.00011196118678857996,3.445606507142742e-05
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Offender given penalty notice,7,133975,435337,5.224855383467065e-05,1.60794970333328e-05
+Metropolitan Police Service,metropolitan,Violence and sexual offences,Suspect charged as part of another case,2,133975,435337,1.4928158238477328e-05,4.594142009523656e-06
+South Wales Police,south-wales,Bicycle theft,Investigation complete; no suspect identified,394,495,52617,0.795959595959596,0.007488074196552445
+South Wales Police,south-wales,Bicycle theft,Under investigation,61,495,52617,0.12323232323232323,0.0011593211319535512
+South Wales Police,south-wales,Bicycle theft,Unable to prosecute suspect,28,495,52617,0.05656565656565657,0.0005321474048311382
+South Wales Police,south-wales,Bicycle theft,Awaiting court outcome,12,495,52617,0.024242424242424242,0.00022806317349905925
+South Wales Police,south-wales,Burglary,Investigation complete; no suspect identified,777,1442,52617,0.5388349514563107,0.014767090484064086
+South Wales Police,south-wales,Burglary,Under investigation,355,1442,52617,0.2461858529819695,0.006746868882680502
+South Wales Police,south-wales,Burglary,Unable to prosecute suspect,151,1442,52617,0.10471567267683772,0.0028697949331964955
+South Wales Police,south-wales,Burglary,Awaiting court outcome,131,1442,52617,0.09084604715672677,0.0024896896440313966
+South Wales Police,south-wales,Burglary,Status update unavailable,24,1442,52617,0.016643550624133148,0.0004561263469981185
+South Wales Police,south-wales,Burglary,Local resolution,2,1442,52617,0.0013869625520110957,3.801052891650987e-05
+South Wales Police,south-wales,Burglary,Further investigation is not in the public interest,1,1442,52617,0.0006934812760055479,1.9005264458254935e-05
+South Wales Police,south-wales,Burglary,Suspect charged as part of another case,1,1442,52617,0.0006934812760055479,1.9005264458254935e-05
+South Wales Police,south-wales,Criminal damage and arson,Investigation complete; no suspect identified,2453,4641,52617,0.528549881491058,0.04661991371609936
+South Wales Police,south-wales,Criminal damage and arson,Unable to prosecute suspect,996,4641,52617,0.21460892049127342,0.018929243400421916
+South Wales Police,south-wales,Criminal damage and arson,Under investigation,696,4641,52617,0.14996767937944408,0.013227664062945435
+South Wales Police,south-wales,Criminal damage and arson,Awaiting court outcome,319,4641,52617,0.06873518638224521,0.006062679362183325
+South Wales Police,south-wales,Criminal damage and arson,Local resolution,92,4641,52617,0.019823313940961,0.0017484843301594543
+South Wales Police,south-wales,Criminal damage and arson,Status update unavailable,34,4641,52617,0.007326007326007326,0.0006461789915806678
+South Wales Police,south-wales,Criminal damage and arson,Further investigation is not in the public interest,32,4641,52617,0.00689506571859513,0.0006081684626641579
+South Wales Police,south-wales,Criminal damage and arson,Offender given a caution,14,4641,52617,0.0030165912518853697,0.0002660737024155691
+South Wales Police,south-wales,Criminal damage and arson,Formal action is not in the public interest,5,4641,52617,0.0010773540185304892,9.502632229127468e-05
+South Wales Police,south-wales,Drugs,Under investigation,763,1908,52617,0.399895178197065,0.014501016781648517
+South Wales Police,south-wales,Drugs,Awaiting court outcome,489,1908,52617,0.2562893081761006,0.009293574320086664
+South Wales Police,south-wales,Drugs,Local resolution,202,1908,52617,0.10587002096436059,0.0038390634205674973
+South Wales Police,south-wales,Drugs,Unable to prosecute suspect,133,1908,52617,0.06970649895178196,0.0025277001729479068
+South Wales Police,south-wales,Drugs,Investigation complete; no suspect identified,90,1908,52617,0.04716981132075472,0.0017104738012429443
+South Wales Police,south-wales,Drugs,Status update unavailable,67,1908,52617,0.03511530398322851,0.0012733527187030807
+South Wales Police,south-wales,Drugs,Further investigation is not in the public interest,66,1908,52617,0.03459119496855346,0.0012543474542448258
+South Wales Police,south-wales,Drugs,Formal action is not in the public interest,62,1908,52617,0.03249475890985325,0.001178326396411806
+South Wales Police,south-wales,Drugs,Offender given a caution,31,1908,52617,0.016247379454926623,0.000589163198205903
+South Wales Police,south-wales,Drugs,Action to be taken by another organisation,5,1908,52617,0.002620545073375262,9.502632229127468e-05
+South Wales Police,south-wales,Other crime,Under investigation,490,1551,52617,0.3159252095422308,0.009312579584544919
+South Wales Police,south-wales,Other crime,Unable to prosecute suspect,440,1551,52617,0.28368794326241137,0.008362316361632172
+South Wales Police,south-wales,Other crime,Awaiting court outcome,192,1551,52617,0.12379110251450677,0.003649010775984948
+South Wales Police,south-wales,Other crime,Investigation complete; no suspect identified,180,1551,52617,0.11605415860735009,0.0034209476024858886
+South Wales Police,south-wales,Other crime,Further investigation is not in the public interest,158,1551,52617,0.10186976144422953,0.00300283178440428
+South Wales Police,south-wales,Other crime,Status update unavailable,55,1551,52617,0.03546099290780142,0.0010452895452040215
+South Wales Police,south-wales,Other crime,Action to be taken by another organisation,16,1551,52617,0.010315925209542231,0.00030408423133207896
+South Wales Police,south-wales,Other crime,Local resolution,10,1551,52617,0.006447453255963894,0.00019005264458254935
+South Wales Police,south-wales,Other crime,Offender given a caution,6,1551,52617,0.0038684719535783366,0.00011403158674952963
+South Wales Police,south-wales,Other crime,Formal action is not in the public interest,4,1551,52617,0.0025789813023855577,7.602105783301974e-05
+South Wales Police,south-wales,Other theft,Investigation complete; no suspect identified,1865,3121,52617,0.5975648830503044,0.03544481821464546
+South Wales Police,south-wales,Other theft,Unable to prosecute suspect,661,3121,52617,0.2117910925985261,0.012562479806906513
+South Wales Police,south-wales,Other theft,Under investigation,487,3121,52617,0.15603973085549502,0.009255563791170153
+South Wales Police,south-wales,Other theft,Awaiting court outcome,55,3121,52617,0.01762255687279718,0.0010452895452040215
+South Wales Police,south-wales,Other theft,Local resolution,21,3121,52617,0.0067286126241589235,0.0003991105536233537
+South Wales Police,south-wales,Other theft,Status update unavailable,20,3121,52617,0.006408202499198975,0.0003801052891650987
+South Wales Police,south-wales,Other theft,Further investigation is not in the public interest,6,3121,52617,0.0019224607497596924,0.00011403158674952963
+South Wales Police,south-wales,Other theft,Action to be taken by another organisation,3,3121,52617,0.0009612303748798462,5.701579337476481e-05
+South Wales Police,south-wales,Other theft,Formal action is not in the public interest,2,3121,52617,0.0006408202499198974,3.801052891650987e-05
+South Wales Police,south-wales,Other theft,Offender given a caution,1,3121,52617,0.0003204101249599487,1.9005264458254935e-05
+South Wales Police,south-wales,Possession of weapons,Under investigation,174,598,52617,0.2909698996655518,0.003306916015736359
+South Wales Police,south-wales,Possession of weapons,Awaiting court outcome,165,598,52617,0.27591973244147155,0.0031358686356120647
+South Wales Police,south-wales,Possession of weapons,Unable to prosecute suspect,162,598,52617,0.2709030100334448,0.0030788528422373
+South Wales Police,south-wales,Possession of weapons,Investigation complete; no suspect identified,32,598,52617,0.05351170568561873,0.0006081684626641579
+South Wales Police,south-wales,Possession of weapons,Status update unavailable,19,598,52617,0.03177257525083612,0.00036110002470684377
+South Wales Police,south-wales,Possession of weapons,Further investigation is not in the public interest,17,598,52617,0.028428093645484948,0.0003230894957903339
+South Wales Police,south-wales,Possession of weapons,Offender given a caution,13,598,52617,0.021739130434782608,0.00024706843795731416
+South Wales Police,south-wales,Possession of weapons,Local resolution,10,598,52617,0.016722408026755852,0.00019005264458254935
+South Wales Police,south-wales,Possession of weapons,Formal action is not in the public interest,6,598,52617,0.010033444816053512,0.00011403158674952963
+South Wales Police,south-wales,Public order,Unable to prosecute suspect,2679,6230,52617,0.430016051364366,0.05091510348366497
+South Wales Police,south-wales,Public order,Investigation complete; no suspect identified,1571,6230,52617,0.2521669341894061,0.029857270463918506
+South Wales Police,south-wales,Public order,Under investigation,1457,6230,52617,0.23386837881219905,0.027690670315677443
+South Wales Police,south-wales,Public order,Awaiting court outcome,264,6230,52617,0.04237560192616372,0.005017389816979303
+South Wales Police,south-wales,Public order,Local resolution,78,6230,52617,0.012520064205457464,0.001482410627743885
+South Wales Police,south-wales,Public order,Status update unavailable,75,6230,52617,0.012038523274478331,0.0014253948343691202
+South Wales Police,south-wales,Public order,Further investigation is not in the public interest,68,6230,52617,0.010914927768860353,0.0012923579831613356
+South Wales Police,south-wales,Public order,Formal action is not in the public interest,17,6230,52617,0.0027287319422150884,0.0003230894957903339
+South Wales Police,south-wales,Public order,Offender given a caution,16,6230,52617,0.002568218298555377,0.00030408423133207896
+South Wales Police,south-wales,Public order,Action to be taken by another organisation,5,6230,52617,0.0008025682182985554,9.502632229127468e-05
+South Wales Police,south-wales,Robbery,Under investigation,146,526,52617,0.27756653992395436,0.002774768610905221
+South Wales Police,south-wales,Robbery,Investigation complete; no suspect identified,140,526,52617,0.2661596958174905,0.002660737024155691
+South Wales Police,south-wales,Robbery,Unable to prosecute suspect,136,526,52617,0.2585551330798479,0.002584715966322671
+South Wales Police,south-wales,Robbery,Awaiting court outcome,102,526,52617,0.19391634980988592,0.0019385369747420035
+South Wales Police,south-wales,Robbery,Status update unavailable,2,526,52617,0.0038022813688212928,3.801052891650987e-05
+South Wales Police,south-wales,Shoplifting,Investigation complete; no suspect identified,2718,5771,52617,0.4709755674926356,0.051656308797536916
+South Wales Police,south-wales,Shoplifting,Awaiting court outcome,1649,5771,52617,0.2857390400277248,0.03133968109166239
+South Wales Police,south-wales,Shoplifting,Under investigation,762,5771,52617,0.13203950788424884,0.014482011517190262
+South Wales Police,south-wales,Shoplifting,Unable to prosecute suspect,443,5771,52617,0.07676312597470109,0.008419332155006938
+South Wales Police,south-wales,Shoplifting,Local resolution,126,5771,52617,0.02183330445330099,0.002394663321740122
+South Wales Police,south-wales,Shoplifting,Status update unavailable,26,5771,52617,0.004505285045919251,0.0004941368759146283
+South Wales Police,south-wales,Shoplifting,Further investigation is not in the public interest,22,5771,52617,0.003812164269623982,0.00041811581808160863
+South Wales Police,south-wales,Shoplifting,Suspect charged as part of another case,10,5771,52617,0.0017328019407381737,0.00019005264458254935
+South Wales Police,south-wales,Shoplifting,Formal action is not in the public interest,7,5771,52617,0.0012129613585167215,0.00013303685120778455
+South Wales Police,south-wales,Shoplifting,Offender given a caution,6,5771,52617,0.0010396811644429042,0.00011403158674952963
+South Wales Police,south-wales,Shoplifting,Action to be taken by another organisation,2,5771,52617,0.00034656038814763474,3.801052891650987e-05
+South Wales Police,south-wales,Theft from the person,Investigation complete; no suspect identified,177,281,52617,0.6298932384341637,0.0033639318091111237
+South Wales Police,south-wales,Theft from the person,Unable to prosecute suspect,52,281,52617,0.18505338078291814,0.0009882737518292566
+South Wales Police,south-wales,Theft from the person,Under investigation,43,281,52617,0.15302491103202848,0.0008172263717049623
+South Wales Police,south-wales,Theft from the person,Status update unavailable,5,281,52617,0.017793594306049824,9.502632229127468e-05
+South Wales Police,south-wales,Theft from the person,Awaiting court outcome,2,281,52617,0.0071174377224199285,3.801052891650987e-05
+South Wales Police,south-wales,Theft from the person,Local resolution,2,281,52617,0.0071174377224199285,3.801052891650987e-05
+South Wales Police,south-wales,Vehicle crime,Investigation complete; no suspect identified,2222,3047,52617,0.7292418772563177,0.04222969762624247
+South Wales Police,south-wales,Vehicle crime,Under investigation,441,3047,52617,0.14473252379389565,0.008381321626090427
+South Wales Police,south-wales,Vehicle crime,Unable to prosecute suspect,256,3047,52617,0.08401706596652445,0.0048653477013132634
+South Wales Police,south-wales,Vehicle crime,Awaiting court outcome,92,3047,52617,0.030193633081719726,0.0017484843301594543
+South Wales Police,south-wales,Vehicle crime,Status update unavailable,19,3047,52617,0.0062356416147029865,0.00036110002470684377
+South Wales Police,south-wales,Vehicle crime,Suspect charged as part of another case,7,3047,52617,0.002297341647522153,0.00013303685120778455
+South Wales Police,south-wales,Vehicle crime,Further investigation is not in the public interest,4,3047,52617,0.0013127666557269445,7.602105783301974e-05
+South Wales Police,south-wales,Vehicle crime,Local resolution,3,3047,52617,0.0009845749917952085,5.701579337476481e-05
+South Wales Police,south-wales,Vehicle crime,Formal action is not in the public interest,2,3047,52617,0.0006563833278634722,3.801052891650987e-05
+South Wales Police,south-wales,Vehicle crime,Offender given a caution,1,3047,52617,0.0003281916639317361,1.9005264458254935e-05
+South Wales Police,south-wales,Violence and sexual offences,Unable to prosecute suspect,10741,23006,52617,0.46687820568547334,0.20413554554611626
+South Wales Police,south-wales,Violence and sexual offences,Under investigation,6947,23006,52617,0.30196470485960186,0.13202957219149705
+South Wales Police,south-wales,Violence and sexual offences,Investigation complete; no suspect identified,2302,23006,52617,0.10006085369034165,0.043750118782902865
+South Wales Police,south-wales,Violence and sexual offences,Awaiting court outcome,1587,23006,52617,0.06898200469442754,0.030161354695250584
+South Wales Police,south-wales,Violence and sexual offences,Status update unavailable,605,23006,52617,0.026297487611927323,0.011498184997244237
+South Wales Police,south-wales,Violence and sexual offences,Local resolution,366,23006,52617,0.015908893332174216,0.006955926791721307
+South Wales Police,south-wales,Violence and sexual offences,Further investigation is not in the public interest,302,23006,52617,0.013127010345127359,0.005739589866392991
+South Wales Police,south-wales,Violence and sexual offences,Offender given a caution,74,23006,52617,0.0032165522037729288,0.0014063895699108653
+South Wales Police,south-wales,Violence and sexual offences,Action to be taken by another organisation,47,23006,52617,0.0020429453186125357,0.000893247429537982
+South Wales Police,south-wales,Violence and sexual offences,Formal action is not in the public interest,35,23006,52617,0.00152134225854125,0.0006651842560389228
+West Midlands Police,west-midlands,Bicycle theft,Investigation complete; no suspect identified,512,706,147116,0.7252124645892352,0.003480246880013051
+West Midlands Police,west-midlands,Bicycle theft,Under investigation,97,706,147116,0.13739376770538245,0.0006593436471899726
+West Midlands Police,west-midlands,Bicycle theft,Unable to prosecute suspect,83,706,147116,0.11756373937677053,0.0005641806465646157
+West Midlands Police,west-midlands,Bicycle theft,Awaiting court outcome,14,706,147116,0.019830028328611898,9.516300062535686e-05
+West Midlands Police,west-midlands,Burglary,Investigation complete; no suspect identified,4805,7069,147116,0.6797283915688216,0.03266130128605998
+West Midlands Police,west-midlands,Burglary,Under investigation,1003,7069,147116,0.1418871127457915,0.006817749259088067
+West Midlands Police,west-midlands,Burglary,Unable to prosecute suspect,797,7069,147116,0.11274579148394398,0.005417493678457816
+West Midlands Police,west-midlands,Burglary,Awaiting court outcome,375,7069,147116,0.05304852171452822,0.0025490089453220587
+West Midlands Police,west-midlands,Burglary,Status update unavailable,43,7069,147116,0.0060828971565992365,0.0002922863590635961
+West Midlands Police,west-midlands,Burglary,Local resolution,29,7069,147116,0.004102419012590183,0.00019712335843823922
+West Midlands Police,west-midlands,Burglary,Offender given a caution,11,7069,147116,0.001556089970292828,7.47709290627804e-05
+West Midlands Police,west-midlands,Burglary,Suspect charged as part of another case,6,7069,147116,0.0008487763474324516,4.078414312515294e-05
+West Midlands Police,west-midlands,Criminal damage and arson,Investigation complete; no suspect identified,6428,12546,147116,0.512354535310059,0.04369341200141385
+West Midlands Police,west-midlands,Criminal damage and arson,Unable to prosecute suspect,3394,12546,147116,0.2705244699505819,0.023070230294461515
+West Midlands Police,west-midlands,Criminal damage and arson,Under investigation,1611,12546,147116,0.1284074605451937,0.010950542429103564
+West Midlands Police,west-midlands,Criminal damage and arson,Awaiting court outcome,653,12546,147116,0.052048461661087196,0.004438674243454145
+West Midlands Police,west-midlands,Criminal damage and arson,Local resolution,326,12546,147116,0.02598437749083373,0.0022159384431333098
+West Midlands Police,west-midlands,Criminal damage and arson,Offender given a caution,78,12546,147116,0.006217120994739359,0.0005301938606269883
+West Midlands Police,west-midlands,Criminal damage and arson,Status update unavailable,37,12546,147116,0.0029491471385302086,0.00025150221593844314
+West Midlands Police,west-midlands,Criminal damage and arson,Action to be taken by another organisation,17,12546,147116,0.0013550135501355014,0.00011555507218793333
+West Midlands Police,west-midlands,Criminal damage and arson,Formal action is not in the public interest,1,12546,147116,7.970667941973537e-05,6.79735718752549e-06
+West Midlands Police,west-midlands,Criminal damage and arson,Further investigation is not in the public interest,1,12546,147116,7.970667941973537e-05,6.79735718752549e-06
+West Midlands Police,west-midlands,Drugs,Local resolution,2313,4878,147116,0.474169741697417,0.01572228717474646
+West Midlands Police,west-midlands,Drugs,Under investigation,969,4878,147116,0.1986469864698647,0.0065866391147122
+West Midlands Police,west-midlands,Drugs,Awaiting court outcome,726,4878,147116,0.14883148831488316,0.004934881318143506
+West Midlands Police,west-midlands,Drugs,Unable to prosecute suspect,581,4878,147116,0.11910619106191062,0.0039492645259523096
+West Midlands Police,west-midlands,Drugs,Investigation complete; no suspect identified,111,4878,147116,0.022755227552275523,0.0007545066478153294
+West Midlands Police,west-midlands,Drugs,Status update unavailable,80,4878,147116,0.016400164001640016,0.0005437885750020392
+West Midlands Police,west-midlands,Drugs,Offender given a caution,76,4878,147116,0.015580155801558016,0.0005165991462519373
+West Midlands Police,west-midlands,Drugs,Formal action is not in the public interest,11,4878,147116,0.002255022550225502,7.47709290627804e-05
+West Midlands Police,west-midlands,Drugs,Action to be taken by another organisation,8,4878,147116,0.0016400164001640015,5.437885750020392e-05
+West Midlands Police,west-midlands,Drugs,Further investigation is not in the public interest,2,4878,147116,0.0004100041000410004,1.359471437505098e-05
+West Midlands Police,west-midlands,Drugs,Further action is not in the public interest,1,4878,147116,0.0002050020500205002,6.79735718752549e-06
+West Midlands Police,west-midlands,Other crime,Unable to prosecute suspect,1164,3021,147116,0.3853028798411122,0.00791212376627967
+West Midlands Police,west-midlands,Other crime,Investigation complete; no suspect identified,674,3021,147116,0.22310493214167496,0.00458141874439218
+West Midlands Police,west-midlands,Other crime,Under investigation,585,3021,147116,0.1936444885799404,0.003976453954702411
+West Midlands Police,west-midlands,Other crime,Awaiting court outcome,417,3021,147116,0.13803376365441908,0.0028344979471981295
+West Midlands Police,west-midlands,Other crime,Action to be taken by another organisation,61,3021,147116,0.020191989407480966,0.00041463878843905487
+West Midlands Police,west-midlands,Other crime,Status update unavailable,43,3021,147116,0.014233697451175108,0.0002922863590635961
+West Midlands Police,west-midlands,Other crime,Local resolution,36,3021,147116,0.011916583912611719,0.00024470485875091765
+West Midlands Police,west-midlands,Other crime,Further investigation is not in the public interest,20,3021,147116,0.006620324395895399,0.0001359471437505098
+West Midlands Police,west-midlands,Other crime,Offender given a caution,20,3021,147116,0.006620324395895399,0.0001359471437505098
+West Midlands Police,west-midlands,Other crime,Further action is not in the public interest,1,3021,147116,0.00033101621979476995,6.79735718752549e-06
+West Midlands Police,west-midlands,Other theft,Investigation complete; no suspect identified,5524,9315,147116,0.5930220075147611,0.03754860110389081
+West Midlands Police,west-midlands,Other theft,Unable to prosecute suspect,2077,9315,147116,0.22297369833601718,0.014118110878490443
+West Midlands Police,west-midlands,Other theft,Under investigation,1409,9315,147116,0.1512614063338701,0.009577476277223416
+West Midlands Police,west-midlands,Other theft,Awaiting court outcome,158,9315,147116,0.01696188942565754,0.0010739824356290274
+West Midlands Police,west-midlands,Other theft,Local resolution,95,9315,147116,0.010198604401502952,0.0006457489328149216
+West Midlands Police,west-midlands,Other theft,Status update unavailable,36,9315,147116,0.003864734299516908,0.00024470485875091765
+West Midlands Police,west-midlands,Other theft,Offender given a caution,9,9315,147116,0.000966183574879227,6.117621468772941e-05
+West Midlands Police,west-midlands,Other theft,Action to be taken by another organisation,6,9315,147116,0.0006441223832528181,4.078414312515294e-05
+West Midlands Police,west-midlands,Other theft,Further investigation is not in the public interest,1,9315,147116,0.00010735373054213633,6.79735718752549e-06
+West Midlands Police,west-midlands,Possession of weapons,Unable to prosecute suspect,995,3260,147116,0.3052147239263804,0.006763370401587862
+West Midlands Police,west-midlands,Possession of weapons,Awaiting court outcome,810,3260,147116,0.24846625766871167,0.005505859321895647
+West Midlands Police,west-midlands,Possession of weapons,Investigation complete; no suspect identified,656,3260,147116,0.20122699386503068,0.004459066315016721
+West Midlands Police,west-midlands,Possession of weapons,Under investigation,646,3260,147116,0.19815950920245398,0.004391092743141467
+West Midlands Police,west-midlands,Possession of weapons,Offender given a caution,54,3260,147116,0.016564417177914112,0.00036705728812637644
+West Midlands Police,west-midlands,Possession of weapons,Local resolution,48,3260,147116,0.014723926380368098,0.0003262731450012235
+West Midlands Police,west-midlands,Possession of weapons,Status update unavailable,37,3260,147116,0.011349693251533743,0.00025150221593844314
+West Midlands Police,west-midlands,Possession of weapons,Action to be taken by another organisation,9,3260,147116,0.0027607361963190185,6.117621468772941e-05
+West Midlands Police,west-midlands,Possession of weapons,Formal action is not in the public interest,3,3260,147116,0.0009202453987730061,2.039207156257647e-05
+West Midlands Police,west-midlands,Possession of weapons,Further investigation is not in the public interest,2,3260,147116,0.0006134969325153375,1.359471437505098e-05
+West Midlands Police,west-midlands,Public order,Unable to prosecute suspect,3590,8636,147116,0.41570171375636866,0.02440251230321651
+West Midlands Police,west-midlands,Public order,Investigation complete; no suspect identified,2323,8636,147116,0.2689902732746642,0.015790260746621713
+West Midlands Police,west-midlands,Public order,Under investigation,1657,8636,147116,0.19187123668364983,0.011263220859729738
+West Midlands Police,west-midlands,Public order,Awaiting court outcome,736,8636,147116,0.08522464103751737,0.005002854890018761
+West Midlands Police,west-midlands,Public order,Local resolution,145,8636,147116,0.016790180639184808,0.000985616792191196
+West Midlands Police,west-midlands,Public order,Status update unavailable,74,8636,147116,0.00856878184344604,0.0005030044318768863
+West Midlands Police,west-midlands,Public order,Offender given a caution,51,8636,147116,0.005905511811023622,0.0003466652165638
+West Midlands Police,west-midlands,Public order,Action to be taken by another organisation,21,8636,147116,0.002431681333950903,0.0001427445009380353
+West Midlands Police,west-midlands,Public order,Formal action is not in the public interest,20,8636,147116,0.002315886984715146,0.0001359471437505098
+West Midlands Police,west-midlands,Public order,Further investigation is not in the public interest,19,8636,147116,0.0022000926354793886,0.00012914978656298432
+West Midlands Police,west-midlands,Robbery,Investigation complete; no suspect identified,1325,2989,147116,0.44329207092673134,0.009006498273471275
+West Midlands Police,west-midlands,Robbery,Under investigation,715,2989,147116,0.2392104382736701,0.004860110389080725
+West Midlands Police,west-midlands,Robbery,Unable to prosecute suspect,558,2989,147116,0.1866845098695216,0.0037929253106392235
+West Midlands Police,west-midlands,Robbery,Awaiting court outcome,346,2989,147116,0.11575777852124457,0.0023518855868838195
+West Midlands Police,west-midlands,Robbery,Status update unavailable,25,2989,147116,0.008364001338240215,0.00016993392968813725
+West Midlands Police,west-midlands,Robbery,Local resolution,18,2989,147116,0.006022080963532954,0.00012235242937545882
+West Midlands Police,west-midlands,Robbery,Offender given a caution,2,2989,147116,0.0006691201070592171,1.359471437505098e-05
+West Midlands Police,west-midlands,Shoplifting,Investigation complete; no suspect identified,6862,15656,147116,0.4382984159427695,0.04664346502079991
+West Midlands Police,west-midlands,Shoplifting,Awaiting court outcome,3645,15656,147116,0.23281808891159939,0.02477636694853041
+West Midlands Police,west-midlands,Shoplifting,Under investigation,2612,15656,147116,0.16683699540112418,0.01775469697381658
+West Midlands Police,west-midlands,Shoplifting,Unable to prosecute suspect,1886,15656,147116,0.12046499744506899,0.012819815655673075
+West Midlands Police,west-midlands,Shoplifting,Local resolution,579,15656,147116,0.03698262646908534,0.003935669811577259
+West Midlands Police,west-midlands,Shoplifting,Offender given a caution,41,15656,147116,0.002618804292284108,0.0002786916446885451
+West Midlands Police,west-midlands,Shoplifting,Status update unavailable,26,15656,147116,0.001660705160960654,0.00017673128687566275
+West Midlands Police,west-midlands,Shoplifting,Action to be taken by another organisation,3,15656,147116,0.00019161982626469086,2.039207156257647e-05
+West Midlands Police,west-midlands,Shoplifting,Further action is not in the public interest,2,15656,147116,0.00012774655084312725,1.359471437505098e-05
+West Midlands Police,west-midlands,Theft from the person,Investigation complete; no suspect identified,732,1318,147116,0.5553869499241275,0.0049756654612686585
+West Midlands Police,west-midlands,Theft from the person,Unable to prosecute suspect,345,1318,147116,0.26176024279210924,0.002345088229696294
+West Midlands Police,west-midlands,Theft from the person,Under investigation,196,1318,147116,0.14871016691957512,0.001332282008754996
+West Midlands Police,west-midlands,Theft from the person,Awaiting court outcome,20,1318,147116,0.015174506828528073,0.0001359471437505098
+West Midlands Police,west-midlands,Theft from the person,Local resolution,11,1318,147116,0.00834597875569044,7.47709290627804e-05
+West Midlands Police,west-midlands,Theft from the person,Status update unavailable,9,1318,147116,0.006828528072837633,6.117621468772941e-05
+West Midlands Police,west-midlands,Theft from the person,Action to be taken by another organisation,2,1318,147116,0.0015174506828528073,1.359471437505098e-05
+West Midlands Police,west-midlands,Theft from the person,Offender given a caution,2,1318,147116,0.0015174506828528073,1.359471437505098e-05
+West Midlands Police,west-midlands,Theft from the person,Further investigation is not in the public interest,1,1318,147116,0.0007587253414264037,6.79735718752549e-06
+West Midlands Police,west-midlands,Vehicle crime,Investigation complete; no suspect identified,10617,13367,147116,0.794269469589287,0.07216754125995813
+West Midlands Police,west-midlands,Vehicle crime,Unable to prosecute suspect,1279,13367,147116,0.0956833994164734,0.008693819842845101
+West Midlands Police,west-midlands,Vehicle crime,Under investigation,1105,13367,147116,0.08266626767412284,0.007511079692215666
+West Midlands Police,west-midlands,Vehicle crime,Awaiting court outcome,289,13367,147116,0.021620408468616743,0.0019644362271948666
+West Midlands Police,west-midlands,Vehicle crime,Local resolution,29,13367,147116,0.0021695219570584275,0.00019712335843823922
+West Midlands Police,west-midlands,Vehicle crime,Status update unavailable,24,13367,147116,0.0017954664472207675,0.00016313657250061176
+West Midlands Police,west-midlands,Vehicle crime,Action to be taken by another organisation,17,13367,147116,0.0012717887334480437,0.00011555507218793333
+West Midlands Police,west-midlands,Vehicle crime,Suspect charged as part of another case,5,13367,147116,0.0003740555098376599,3.398678593762745e-05
+West Midlands Police,west-midlands,Vehicle crime,Offender given a caution,2,13367,147116,0.00014962220393506396,1.359471437505098e-05
+West Midlands Police,west-midlands,Violence and sexual offences,Unable to prosecute suspect,36040,64355,147116,0.560018646569808,0.24497675303841868
+West Midlands Police,west-midlands,Violence and sexual offences,Under investigation,11928,64355,147116,0.18534690389247144,0.08107887653280405
+West Midlands Police,west-midlands,Violence and sexual offences,Investigation complete; no suspect identified,9125,64355,147116,0.14179162458239453,0.062025884336170095
+West Midlands Police,west-midlands,Violence and sexual offences,Awaiting court outcome,3567,64355,147116,0.05542692875456452,0.024246173087903423
+West Midlands Police,west-midlands,Violence and sexual offences,Local resolution,1404,64355,147116,0.02181648667547199,0.009543489491285789
+West Midlands Police,west-midlands,Violence and sexual offences,Action to be taken by another organisation,1122,64355,147116,0.017434542770569498,0.0076266347644036
+West Midlands Police,west-midlands,Violence and sexual offences,Status update unavailable,581,64355,147116,0.009028047548753011,0.0039492645259523096
+West Midlands Police,west-midlands,Violence and sexual offences,Offender given a caution,545,64355,147116,0.008468650454510139,0.0037045596672013923
+West Midlands Police,west-midlands,Violence and sexual offences,Further investigation is not in the public interest,32,64355,147116,0.0004972418615492192,0.00021751543000081568
+West Midlands Police,west-midlands,Violence and sexual offences,Further action is not in the public interest,6,64355,147116,9.32328490404786e-05,4.078414312515294e-05
+West Midlands Police,west-midlands,Violence and sexual offences,Formal action is not in the public interest,5,64355,147116,7.76940408670655e-05,3.398678593762745e-05

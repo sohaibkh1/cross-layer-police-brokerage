@@ -1,0 +1,15 @@
+{
+  "data_page": "https://data.police.uk/data/",
+  "fetch_url": "https://data.police.uk/data/fetch/616c3377-6b75-4cd9-8f49-cfd386effbed/",
+  "download_url": "https://policeuk-data.s3.amazonaws.com/download/81da6e3437a779b54118f95a03b8c8eb8022bebf.zip",
+  "date_from": "2025-11",
+  "date_to": "2026-04",
+  "forces": {
+    "metropolitan": "Metropolitan Police Service",
+    "west-midlands": "West Midlands Police",
+    "south-wales": "South Wales Police"
+  },
+  "include_crime": true,
+  "include_outcomes": false,
+  "note": "Custom data.police.uk download generated on 2026-06-23; street-level crime files only."
+}

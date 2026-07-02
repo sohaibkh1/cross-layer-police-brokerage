@@ -1,0 +1,76 @@
+force,force_slug,source_crime_type,target_crime_type,cosine_similarity,source_community_id,target_community_id,method
+Metropolitan Police Service,metropolitan,Bicycle theft,Theft from the person,0.9996632738548461,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Bicycle theft,Vehicle crime,0.9995864043980214,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Bicycle theft,Other theft,0.9943833060656437,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Bicycle theft,Burglary,0.9869805682742602,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Burglary,Other theft,0.9967644972673696,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Burglary,Theft from the person,0.9876398075560645,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Burglary,Criminal damage and arson,0.9727546932161892,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Burglary,Robbery,0.9513223479322829,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Burglary,Shoplifting,0.9856458096644657,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Robbery,0.9814483342355165,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Criminal damage and arson,Shoplifting,0.9715715703019908,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Drugs,Other crime,0.841466250762026,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Drugs,Violence and sexual offences,0.8317458282918065,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Drugs,Possession of weapons,0.7919364402233016,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Other crime,Public order,0.9060398456031195,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Other crime,Possession of weapons,0.8927612034172787,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Other crime,Violence and sexual offences,0.8855142317989254,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Other theft,Theft from the person,0.9957455285412409,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Other theft,Robbery,0.933752751771846,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Other theft,Shoplifting,0.9885234546860574,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Other theft,Vehicle crime,0.9923420075187912,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Possession of weapons,Public order,0.7569696669597931,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Public order,Violence and sexual offences,0.9765468218983008,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Public order,Robbery,0.8563394388139727,2,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Shoplifting,Theft from the person,0.9850546227454196,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+Metropolitan Police Service,metropolitan,Theft from the person,Vehicle crime,0.9994977644550103,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Bicycle theft,Burglary,0.9985834588076287,3,3,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Bicycle theft,Vehicle crime,0.9958280941477498,3,3,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Bicycle theft,Other theft,0.9797949606691785,3,3,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Burglary,Vehicle crime,0.9928482213096742,3,3,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Burglary,Other theft,0.980203297006755,3,3,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Burglary,Shoplifting,0.915102887375483,3,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Burglary,Theft from the person,0.9621351323154734,3,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Criminal damage and arson,Theft from the person,0.996316968966043,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Criminal damage and arson,Other theft,0.9900454051635053,2,3,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Criminal damage and arson,Robbery,0.9597055487400898,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Criminal damage and arson,Shoplifting,0.9082144673383986,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Drugs,Possession of weapons,0.46809547810527324,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Drugs,Other crime,0.41773132702741567,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Drugs,Public order,0.38781064415370897,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Other crime,Public order,0.9905259865040892,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Other crime,Possession of weapons,0.9609719098839803,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Other crime,Violence and sexual offences,0.9460031217305945,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Other theft,Theft from the person,0.9968951366688112,3,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Other theft,Vehicle crime,0.9636441644937374,3,3,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Possession of weapons,Public order,0.921866813706989,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Possession of weapons,Violence and sexual offences,0.8468704135980238,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Public order,Violence and sexual offences,0.9496671542974909,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Robbery,Shoplifting,0.959061283030148,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+West Midlands Police,west-midlands,Robbery,Theft from the person,0.9572032962744833,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Bicycle theft,Vehicle crime,0.9981198821702969,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Bicycle theft,Theft from the person,0.9744415042403782,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Bicycle theft,Other theft,0.9613639554186183,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Burglary,Criminal damage and arson,0.9693135866756426,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Burglary,Theft from the person,0.968154941242843,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Burglary,Other theft,0.9666068760797533,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Burglary,Shoplifting,0.92010184764104,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Criminal damage and arson,Other theft,0.9946548166887601,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Criminal damage and arson,Theft from the person,0.9889559148897381,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Criminal damage and arson,Shoplifting,0.8981316268113838,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Drugs,Possession of weapons,0.874320787920622,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Drugs,Other crime,0.8078249039822929,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Drugs,Robbery,0.7656602226165465,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Other crime,Violence and sexual offences,0.9345038426909769,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Other crime,Possession of weapons,0.9273171042415875,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Other crime,Robbery,0.9151736337954585,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Other crime,Public order,0.8933229254114915,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Other theft,Theft from the person,0.9982241759293847,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Other theft,Vehicle crime,0.97460236245515,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Possession of weapons,Robbery,0.8890911590418812,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Possession of weapons,Violence and sexual offences,0.8607972140245344,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Public order,Violence and sexual offences,0.9527798542907139,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Public order,Robbery,0.9058147533246688,2,2,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Shoplifting,Vehicle crime,0.8816217639736723,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
+South Wales Police,south-wales,Theft from the person,Vehicle crime,0.9848320258819279,1,1,cosine_outcome_profile_top_3_edges_per_node_greedy_modularity
