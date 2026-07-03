@@ -1,8 +1,10 @@
-# ECMM447 CW2: Cross-layer Brokerage in Police Recorded Crime Networks
+# Cross-layer Brokerage in Police Recorded Crime Networks
 
-Report title: **Cross-layer brokerage in area–crime–outcome police networks**
+This project analyses how recorded crime categories connect local areas with police outcome categories across three English and Welsh police forces. It uses a weighted multilayer network structure where crime type acts as the shared bridge between area nodes and outcome nodes.
 
-Research question: **Which recorded crime categories act as cross-layer brokers between Lower Layer Super Output Areas (LSOAs) and recorded police outcomes, and how consistent are these brokerage roles across Metropolitan Police Service, West Midlands Police and South Wales Police?**
+## Core Question
+
+Which recorded crime categories act as cross-layer brokers between Lower Layer Super Output Areas (LSOAs) and recorded police outcomes, and how consistent are these brokerage roles across Metropolitan Police Service, West Midlands Police and South Wales Police?
 
 ## Data
 
@@ -19,11 +21,13 @@ Scope:
 
 Excluded: stop-and-search, British Transport Police, PSNI, Scotland, and whole-UK aggregation.
 
-The raw custom ZIP is included at `data/raw/`; the processed CSV is regenerated locally by the pipeline and is not shipped.
+The raw custom ZIP is expected at `data/raw/`. The processed CSV is regenerated locally by the analysis pipeline and is not shipped.
 
-Before running for the first time, confirm that
-`data/raw/police_custom_2025-11_2026-04_metropolitan_south-wales_west-midlands_street.zip`
-exists at that exact path. The pipeline reads it from there.
+Before running for the first time, confirm that this file exists:
+
+```text
+data/raw/police_custom_2025-11_2026-04_metropolitan_south-wales_west-midlands_street.zip
+```
 
 ## How to Run
 
@@ -42,31 +46,20 @@ To regenerate the custom data download from data.police.uk:
 python -m src.run_analysis
 ```
 
-The notebook version is:
+Set `RUN_DOWNLOAD = False` in the analysis notebook if the ZIP is already present in `data/raw`.
 
-```text
-notebooks/ECMM447_CW2_analysis.ipynb
-```
+## Reproducibility
 
-Set `RUN_DOWNLOAD = False` in the notebook if the ZIP is already present in `data/raw`.
+Approximate weighted-distance betweenness on the Metropolitan graph is the slowest step in the pipeline. To make repeated notebook runs fast, `run_analysis.py` caches `outputs/tables/top_crime_centrality.csv` and reuses it on subsequent runs if the required columns are present. All other tables and figures are regenerated on every run.
 
-### Reproducibility note
-
-Approximate weighted-distance betweenness on the Metropolitan graph is the
-slowest step in the pipeline. To make repeated notebook runs fast,
-`run_analysis.py` caches `outputs/tables/top_crime_centrality.csv` and reuses
-it on subsequent runs if the required columns are present. All other tables
-and figures are regenerated on every run. For a fully fresh end-to-end
-recomputation of centrality as well, delete the cached table first:
+For a fully fresh end-to-end recomputation of centrality, delete the cached table first:
 
 ```bash
 rm -f outputs/tables/top_crime_centrality.csv
 python -m src.run_analysis --skip-download
 ```
 
-The betweenness computation uses a fixed random seed and `k=250` sampled
-source nodes on the two larger graphs, so a fresh run reproduces the same
-values.
+The betweenness computation uses a fixed random seed and `k=250` sampled source nodes on the two larger graphs, so a fresh run reproduces the same values.
 
 ## Main Outputs
 
@@ -81,13 +74,9 @@ values.
 - `outputs/figures/fig1_data_overview.png`
 - `outputs/figures/fig2_brokerage_comparison.png`
 - `outputs/figures/fig3_similarity_networks.png`
-- `outputs/figures/fig4_centrality_comparison.png` (PageRank vs betweenness + rank-size distribution; report Appendix)
-- `outputs/figures/figS1_outcome_heatmap.png` (supplementary; not in report)
+- `outputs/figures/fig4_centrality_comparison.png`
+- `outputs/figures/figS1_outcome_heatmap.png`
 - `outputs/results_summary.md`
-- `report/report_final.tex`
-- `report/760012524_FINAL_REPORT.pdf`
-- `report/references.bib`
-- `AI_declaration.md`
 
 ## Methods
 
@@ -99,7 +88,7 @@ For each force, the code builds:
 
 The main analysis uses a four-component cross-layer brokerage score: area spread, outcome connectivity, outcome entropy, and weighted-distance betweenness. A crime-type outcome-profile similarity network is then built as a one-mode projection of the crime-outcome bipartite layer using cosine similarity and greedy modularity community detection.
 
-Descriptive validation uses Spearman rank correlation to compare brokerage with raw crime volume and to compare brokerage score consistency across forces. As a robustness check, PageRank centrality is computed on the combined graph and its ranking compared with betweenness ranking (Fig. 4 in report Appendix).
+Descriptive validation uses Spearman rank correlation to compare brokerage with raw crime volume and to compare brokerage score consistency across forces. As a robustness check, PageRank centrality is computed on the combined graph and its ranking compared with betweenness ranking.
 
 ## Key Limitations
 
